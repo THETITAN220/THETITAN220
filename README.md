@@ -77,14 +77,6 @@ I bring an **unhealthy competitive nature** to competitive programming (in the b
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=THETITAN220&theme=catppuccin_mocha&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
