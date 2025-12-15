@@ -86,14 +86,5 @@ I bring an **unhealthy competitive nature** to competitive programming (in the b
 ---
 
 <div align="center">
-
-### 📊 Profile Views
-![](https://komarev.com/ghpvc/?username=THETITAN220&color=blueviolet&style=for-the-badge)
-
-</div>
-
----
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=90" width="100%"/>
 </div>
