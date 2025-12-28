@@ -82,9 +82,6 @@ I bring an **unhealthy competitive nature** to competitive programming (in the b
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=THETITAN220&theme=high-contrast&hide_border=true&bg_color=1e1e2e&color=cba6f7&line=f5c2e7&point=f38ba8" alt="Contribution Graph"/>
 </div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=90" width="100%"/>
 </div>
