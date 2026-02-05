@@ -3,7 +3,7 @@
 # Hey there! 👋 I'm
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=440&lines=Raunak+Rose;THETITAN220;Full+Stack+Developer;Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=440&lines=Raunak+Rose+|+Full+Stack+Developer+|+Competitive+Programmer" alt="Typing SVG" />
 </div>
 <div align="center">
   
